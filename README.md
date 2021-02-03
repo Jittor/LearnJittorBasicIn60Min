@@ -5,3 +5,5 @@ git clone https://github.com/Jittor/LearnJittorBasicIn60Min.git
 cd LearnJittorBasicIn60Min
 jupyter notebook
 ```
+
+在线浏览地址：<https://nbviewer.jupyter.org/github/Jittor/LearnJittorBasicIn60Min/tree/master/>
