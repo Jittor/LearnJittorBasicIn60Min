@@ -7,3 +7,5 @@ jupyter notebook
 ```
 
 在线浏览地址：<https://nbviewer.jupyter.org/github/Jittor/LearnJittorBasicIn60Min/tree/master/>
+
+特别感谢教程作者：llt
